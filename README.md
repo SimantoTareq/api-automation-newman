@@ -4,8 +4,8 @@
 ### In the project I have automate the api sung postman and newman. Here I have covered folliwng tasks as create new user, login, search user, update and delete user
 
 ## Tools & Technology used: 
--Postman
--Newman
+- Postman
+- Newman
 
 ## Pre-requsites
 - nodejs
