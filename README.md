@@ -13,5 +13,5 @@
 ## How to run this project:
 - Clone this project
 - Give following command:
-- '''nmp i '''
-- '''nmp test '''
+- ''' nmp i '''
+- ''' nmp test '''
