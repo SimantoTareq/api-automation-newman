@@ -20,3 +20,5 @@
 - https://documenter.getpostman.com/view/11448754/2sA3JQ4fBL
 
 ## Test Report
+![screencapture-file-D-SQA-Postman-dmoney-Reports-report-html-2024-05-16-03_48_09](https://github.com/SimantoTareq/api-automation-newman/assets/40123885/0a1b46cd-6211-475e-9f2a-d904d31e6052)
+
